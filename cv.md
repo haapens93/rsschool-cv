@@ -1,6 +1,6 @@
 
 # Anton Kotov
-![alt-not found](https://github.com/haapens93/rsschool-cv/blob/rsschool-cv-html/images/808_cr.jpg)
+![alt-not found](rsschool-cv\images\808_cr.jpg)
 
 ************
 
