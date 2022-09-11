@@ -5,12 +5,12 @@
 ************
 
 ## Contacts: 
-* Location: Maladzyechna, Belarus
-* email haapens93@icloud.com
-* Telegram: @haapens
-* GitHub: haapens93
-* Discord: @haapens93
-* Tel: +375(29)262-64-51
+* ***Location:*** Maladzyechna, Belarus
+* ***Email:*** haapens93@icloud.com
+* ***Telegram:*** @haapens
+* ***GitHub:*** haapens93
+* ***Discord:*** @haapens93
+* ***Tel:*** +375 (29) 262 - 64 - 51
 
 ************
 
