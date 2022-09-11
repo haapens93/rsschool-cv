@@ -1,6 +1,6 @@
 
 # Anton Kotov
-![alt-not found](rsschool-cv\images\808_cr.jpg)
+![alt-not found](images\808_cr.jpg)
 
 ************
 
